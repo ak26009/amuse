@@ -1,6 +1,6 @@
 pip django install
 
-python django startproject <<projectname>>
+python django-admin startproject <<projectname>>
 
 cd  base dir
 python manage.py runserver
